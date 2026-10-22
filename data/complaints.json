@@ -1,0 +1,297 @@
+[
+  {
+    "id": "cfx-1792667969373",
+    "tracking_id": "CFX-2026-48095",
+    "reporter_name": "Karan Johar",
+    "reporter_email": "karan@example.com",
+    "title": "Broken water main flooding school lane",
+    "description": "Drinking water pipe burst, high pressure flow eroding road",
+    "category": "Water Supply",
+    "urgency": "High",
+    "priority": "High",
+    "status": "In Progress",
+    "image_url": null,
+    "latitude": 28.615,
+    "longitude": 77.21,
+    "address": "Near Greenfield School Gate 1",
+    "ai_analysis": {
+      "isLiveApi": false,
+      "model": "CivicFix AI Smart Heuristic Engine",
+      "suggested_category": "Road Damage",
+      "summary": "Road Damage: Broken water main flooding school lane...",
+      "safety_severity": "High",
+      "urgency": "High",
+      "recommended_priority": "High",
+      "confidence_score": 0.94,
+      "reasoning": "Visual depression and structural asphalt wear in vehicular transit corridor.",
+      "detected_hazards": [
+        "Two-wheeler skid risk",
+        "Vehicle axle damage",
+        "Nighttime collision hazard"
+      ],
+      "action_recommendations": [
+        "Dispatch Road Damage municipal assessment crew",
+        "Erect temporary pedestrian warning markers"
+      ],
+      "analyzed_at": "2026-10-22T11:19:29.373Z"
+    },
+    "assigned_department": "Water Supply & Sewerage Board",
+    "admin_notes": "Emergency valve team dispatched to isolate the section.",
+    "created_at": "2026-10-22T11:19:29.373Z",
+    "updated_at": "2026-10-22T11:19:29.385Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial civic complaint filed by citizen",
+        "created_at": "2026-10-22T11:19:29.373Z"
+      },
+      {
+        "old_status": "Pending",
+        "new_status": "In Progress",
+        "notes": "Emergency valve team dispatched to isolate the section.",
+        "created_at": "2026-10-22T11:19:29.385Z"
+      }
+    ]
+  },
+  {
+    "id": "cfx-001",
+    "tracking_id": "CFX-2026-08142",
+    "reporter_name": "Aarav Sharma",
+    "reporter_email": "aarav.sharma@example.com",
+    "title": "Massive Pothole near MG Road Metro Station",
+    "description": "A deep crater approximately 1.5 meters wide on the left lane right after metro pillar 142. Two two-wheelers skidded this morning during rain. Severe traffic hazard.",
+    "category": "Road Damage",
+    "urgency": "Critical",
+    "priority": "Critical",
+    "status": "In Progress",
+    "image_url": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&w=800&q=80",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "address": "Connaught Place / MG Road Pillar 142, Central District",
+    "ai_analysis": {
+      "suggested_category": "Road Damage",
+      "summary": "Deep road crater with exposed aggregate causing severe vehicular hazard.",
+      "safety_severity": "Critical",
+      "recommended_priority": "Critical",
+      "confidence_score": 0.94,
+      "reasoning": "Visible structural road depression exceeding 15cm depth in active transit corridor with water pooling and loose aggregate.",
+      "detected_hazards": [
+        "Two-wheeler skidding hazard",
+        "Nighttime collision risk",
+        "Axle suspension damage"
+      ]
+    },
+    "assigned_department": "Public Works & Roads Dept",
+    "admin_notes": "Work order #PW-9821 issued. Asphalt patching crew dispatched.",
+    "created_at": "2026-10-19T09:30:00.000Z",
+    "updated_at": "2026-10-21T14:15:00.000Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial complaint report filed by citizen",
+        "created_at": "2026-10-19T09:30:00.000Z"
+      },
+      {
+        "old_status": "Pending",
+        "new_status": "In Review",
+        "notes": "Reviewed and prioritized by Public Works triage officer",
+        "created_at": "2026-10-20T11:00:00.000Z"
+      },
+      {
+        "old_status": "In Review",
+        "new_status": "In Progress",
+        "notes": "Work order #PW-9821 issued. Asphalt patching crew dispatched.",
+        "created_at": "2026-10-21T14:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "cfx-002",
+    "tracking_id": "CFX-2026-08143",
+    "reporter_name": "Priya Sundaram",
+    "reporter_email": "priya.sundaram@example.com",
+    "title": "Overflowing Dumpster and Litter Spillover",
+    "description": "Commercial waste dumpsters at the corner of 4th Cross have not been cleared for 4 days. Waste is spilling across the sidewalk and blocking pedestrian pathway.",
+    "category": "Garbage",
+    "urgency": "High",
+    "priority": "High",
+    "status": "Pending",
+    "image_url": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&w=800&q=80",
+    "latitude": 28.6189,
+    "longitude": 77.214,
+    "address": "Corner 4th Cross & Market Ave, Block B",
+    "ai_analysis": {
+      "suggested_category": "Garbage",
+      "summary": "Uncollected municipal waste container overflowing onto pedestrian sidewalk.",
+      "safety_severity": "High",
+      "recommended_priority": "High",
+      "confidence_score": 0.92,
+      "reasoning": "Organic decomposing matter, plastic obstruction of walkway, potential health and vermin hazard.",
+      "detected_hazards": [
+        "Pedestrian walkway obstruction",
+        "Sanitation hazard",
+        "Stray animal aggregation"
+      ]
+    },
+    "assigned_department": "Solid Waste Management",
+    "admin_notes": "Pending assignment to morning sanitation route.",
+    "created_at": "2026-10-20T16:45:00.000Z",
+    "updated_at": "2026-10-20T16:45:00.000Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial complaint report filed by citizen",
+        "created_at": "2026-10-20T16:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "cfx-003",
+    "tracking_id": "CFX-2026-08144",
+    "reporter_name": "Rahul Mehta",
+    "reporter_email": "rahul.m@example.com",
+    "title": "Flickering and Blacked-Out Streetlights on School Road",
+    "description": "A row of 4 consecutive street lamps are completely dark between St. Jude School and the community park. Creates an unsafe dark zone for pedestrians after sunset.",
+    "category": "Streetlight",
+    "urgency": "Medium",
+    "priority": "Medium",
+    "status": "Resolved",
+    "image_url": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=800&q=80",
+    "latitude": 28.6095,
+    "longitude": 77.2025,
+    "address": "Green Park Link Road, opposite Gate 2",
+    "ai_analysis": {
+      "suggested_category": "Streetlight",
+      "summary": "Multiple non-functional pole-mounted LED luminaires along school perimeter.",
+      "safety_severity": "Medium",
+      "recommended_priority": "Medium",
+      "confidence_score": 0.89,
+      "reasoning": "Power supply or fixture burnout covering approximately 120m of residential pedestrian corridor.",
+      "detected_hazards": [
+        "Low-visibility pedestrian corridor",
+        "Night safety concern"
+      ]
+    },
+    "assigned_department": "Municipal Electricity Board",
+    "admin_notes": "Replaced 4 sodium-vapor lamps with 60W energy-efficient LEDs. Line tested successfully.",
+    "created_at": "2026-10-16T18:20:00.000Z",
+    "updated_at": "2026-10-21T10:00:00.000Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial complaint report filed",
+        "created_at": "2026-10-16T18:20:00.000Z"
+      },
+      {
+        "old_status": "Pending",
+        "new_status": "In Progress",
+        "notes": "Assigned to Municipal Electricity Board line team",
+        "created_at": "2026-10-18T09:00:00.000Z"
+      },
+      {
+        "old_status": "In Progress",
+        "new_status": "Resolved",
+        "notes": "Replaced 4 sodium-vapor lamps with 60W energy-efficient LEDs.",
+        "created_at": "2026-10-21T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "cfx-004",
+    "tracking_id": "CFX-2026-08145",
+    "reporter_name": "Ananya Sen",
+    "reporter_email": "ananya.sen@example.com",
+    "title": "Broken Water Pipeline Flooding Main Road",
+    "description": "Potable water pipeline rupture underneath the sidewalk. Clean water gushing at high pressure for over 12 hours, washing away gravel and flooding road.",
+    "category": "Water Supply",
+    "urgency": "Critical",
+    "priority": "Critical",
+    "status": "In Review",
+    "image_url": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+    "latitude": 28.625,
+    "longitude": 77.218,
+    "address": "Sector 12, Main Ring Road Junction",
+    "ai_analysis": {
+      "suggested_category": "Water Supply",
+      "summary": "Pressurized water pipe fracture causing localized road surface flooding.",
+      "safety_severity": "Critical",
+      "recommended_priority": "Critical",
+      "confidence_score": 0.96,
+      "reasoning": "High-volume water loss with sub-base erosion risks under road surface.",
+      "detected_hazards": [
+        "Subsurface soil erosion",
+        "Aquaplaning risk",
+        "Massive drinking water wastage"
+      ]
+    },
+    "assigned_department": "Water Supply & Sewerage Board",
+    "admin_notes": "Emergency valve isolation team notified.",
+    "created_at": "2026-10-22T04:00:00.000Z",
+    "updated_at": "2026-10-22T07:30:00.000Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial complaint report filed",
+        "created_at": "2026-10-22T04:00:00.000Z"
+      },
+      {
+        "old_status": "Pending",
+        "new_status": "In Review",
+        "notes": "Emergency valve isolation team notified.",
+        "created_at": "2026-10-22T07:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "cfx-005",
+    "tracking_id": "CFX-2026-08146",
+    "reporter_name": "Vikram Malhotra",
+    "reporter_email": "v.malhotra@example.com",
+    "title": "Open High-Voltage Distribution Box Near Bus Stop",
+    "description": "The metallic casing of the distribution transformer box is broken open with exposed live wires dangling less than 1 meter from the bus stop bench.",
+    "category": "Public Hazard",
+    "urgency": "Critical",
+    "priority": "Critical",
+    "status": "In Progress",
+    "image_url": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?auto=format&fit=crop&w=800&q=80",
+    "latitude": 28.612,
+    "longitude": 77.225,
+    "address": "Kasturba Marg Bus Shelter #14",
+    "ai_analysis": {
+      "suggested_category": "Public Hazard",
+      "summary": "Unsecured electrical junction box with accessible live cables near public transit.",
+      "safety_severity": "Critical",
+      "recommended_priority": "Critical",
+      "confidence_score": 0.98,
+      "reasoning": "Direct electrocution risk to commuters and children within reaching distance.",
+      "detected_hazards": [
+        "Direct electrocution danger",
+        "Rainwater short-circuit hazard",
+        "Fire risk"
+      ]
+    },
+    "assigned_department": "Electrical Safety Inspectorate",
+    "admin_notes": "Warning tape installed. Maintenance crew on-site with replacement enclosure.",
+    "created_at": "2026-10-21T11:00:00.000Z",
+    "updated_at": "2026-10-21T17:00:00.000Z",
+    "status_history": [
+      {
+        "old_status": null,
+        "new_status": "Pending",
+        "notes": "Initial complaint report filed",
+        "created_at": "2026-10-21T11:00:00.000Z"
+      },
+      {
+        "old_status": "Pending",
+        "new_status": "In Progress",
+        "notes": "Warning tape installed. Maintenance crew on-site.",
+        "created_at": "2026-10-21T17:00:00.000Z"
+      }
+    ]
+  }
+]
